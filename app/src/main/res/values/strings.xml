@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactMishaAnton</string>
+    <string-array name="typePhone">
+        <item>Моб.</item>
+        <item>Дом.</item>
+        <item>Рабочий</item>
+        <item>Основной</item>
+    </string-array>
+</resources>
